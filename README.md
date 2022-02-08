@@ -13,6 +13,10 @@
 - 📫 How to reach me: https://www.instagram.com/_prateek.official_
 - ⚡ Hobbies: Content Creation, Coding
 - 📹 YouTube: https://youtube.com/geekdude
+<br />
+### Playing Now on Spotify 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fwdc183ap0gdz08aet3dmm8s8&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <br />
 
