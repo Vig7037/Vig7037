@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+Prateek+Kumar...;This+is+my+profile!&center=true&size=30">
+  </a>
+</h1>
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning C, Python, Web Development
