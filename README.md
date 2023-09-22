@@ -1,26 +1,25 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+Prateek+Kumar...;This+is+my+profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;Vighnesh Singhal...;This+is+my+profile!&center=true&size=30">
   </a>
 </h1>
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning C, Python, Web Development
+- 🌱 I’m currently learning C, Python.
 - 👯 I’m looking to collaborate on GitHub, LinkedIn, Instagram, Youtube
 <!--
 - 🤔 I’m looking for help with C-->
-- 📫 How to reach me: [Instagram](https://www.instagram.com/_prateek.official_)
-- ⚡ Hobbies: Content Creation, Coding
-- 📹 My Content: [YouTube](https://youtube.com/geekdude)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/_vighneshsinghal_)
+- ⚡ Hobbies: Reading Books, Coding
 <br />
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
+<!--
 ### Playing Now on Spotify 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316b6asoazidn7kkda65ajfs6fzm&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
+-->
 <br />
 
 [![Linkedin: Prateek Kumar](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/geekdude)](https://linkedin.com/in/geekdude)
