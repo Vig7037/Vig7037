@@ -2,12 +2,13 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" width=100 alt="coding" snc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNcbQOhUEQlefD5f3wiZMSEiHrPaLMDu7-faXUkfZFul-KK5X&s"
 
-- 🔭 I’m currently working on **railway system**
+- 🔭 I’m currently working on **method of encryption**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **vighneshsinghal@gmail.com**
 
+- 🔍 You can connect me on Linked in **https://www.linkedin.com/in/vighnesh-singhal-33b792244/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vighnesh-singhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vighensh singhal" height="30" width="40" /></a>
