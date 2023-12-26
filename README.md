@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **vighneshsinghal@gmail.com**
 
-- 🔍 You can connect me on Linked in **https://www.linkedin.com/in/vighnesh-singhal-33b792244/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vighnesh-singhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vighensh singhal" height="30" width="40" /></a>
