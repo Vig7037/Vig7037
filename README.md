@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vighnesh Singhal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" width=100 alt="coding" snc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNcbQOhUEQlefD5f3wiZMSEiHrPaLMDu7-faXUkfZFul-KK5X&s"
-
 - 🔭 I’m currently working on **method of encryption**
-
 - 🌱 I’m currently learning **Python**
-
 - 📫 How to reach me **vighneshsinghal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
