@@ -1,7 +1,7 @@
 # Hi, I'm Vighnesh Singhal! 👋
 I am a passionate B.Tech Computer Science student at Graphic Era Hill University, driven by a deep interest in AI and programming. My journey involves exploring cutting-edge technologies, contributing to innovative projects, and sharing my knowledge with the community.
 
-![Vighnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vig7037&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Vighnesh's GitHub Stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=Gradient))
 
 ## 🚀 About Me
 
