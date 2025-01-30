@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-- 📝 Completed multiple certifications, including the Azure AI Fundamentals and Python Programming Course by [@Blaze Forge](https://blazeforge.net/).
+- 📝 Completed multiple certifications, Python Programming Course by [@Blaze Forge](https://blazeforge.net/).
 
 ## 🌱 Currently Exploring
-- 🔍 Diving deeper into AI and machine learning, with projects utilizing Gemini and LangChain.
-- 💻 .Net Framework with C# 
+- 🔍 Diving deeper into AI and machine learnin.
+- 💻 Generative AI with projects utilizing LLM models and LangChain
 
 ## 📬 Get in Touch
 
