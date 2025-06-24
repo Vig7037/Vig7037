@@ -1,39 +1,45 @@
-# Hi, Vighnesh Singhal this side! 👋
-###### A student driven by a deep interest in AI and programming. My journey involves exploring cutting-edge technologies, contributing to innovative projects, and sharing my knowledge with the community.
+#   Hi 👋, Vighnesh Singhal, this side!<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="44">&nbsp;
 
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://streamlit.io/images/brand/streamlit-mark-color.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
+---
+## 🚀 Skills
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 
-
-## 🚀 About Me
-
-- 📝 Completed multiple certifications, Python Programming Course by [@Blaze Forge](https://blazeforge.net/).
+---
 
 ## 🌱 Currently Exploring
-- 🔍 Diving deeper into AI and machine learnin.
-- 💻 Generative AI with projects utilizing LLM models and LangChain
+> 🔍 Diving deeper into AI and machine learning.
+> 💻 Generative AI with projects utilizing LLM models and LangChain
+
+---
+
 
 ## 📬 Get in Touch
 
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/vig7037/)
-- [![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github)](https://github.com/Vig7037)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/vig7037/) [![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github)](https://github.com/Vig7037)
+
+---
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vig7037&show_icons=true&locale=en&layout=compact" alt="Vig7037" /></p>
 
 
 ![Vighnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vig7037&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+<p align="center" style="font-style: italic; color: gray;">
+  <em>Always learning, thinking, feeling, willing .</em>
+</p>
+
+---
 
