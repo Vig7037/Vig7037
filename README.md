@@ -24,10 +24,8 @@
 
 ## 📬 Get in Touch
 
-<p align="center">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/vig7037) 
 [![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github)](https://github.com/Vig7037)
-</p>
 
 ---
 
