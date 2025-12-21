@@ -13,14 +13,6 @@
 </p>
 
 
----
-
-## 🌱 Currently Exploring
-> 🔍 Diving deeper into AI and machine learning.
-> 💻 Generative AI with projects utilizing LLM models and LangChain
-
----
-
 
 ## 📬 Get in Touch
 
